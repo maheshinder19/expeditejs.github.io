@@ -52,6 +52,7 @@ and with roadmap to support many more!
    - `expedite-front-docsites` It will initialise docusaurus.
    - `expedite-front-docsites-config` It will pick values from config file and apply them to the generated application.
    - `expedite-front-start` It will initialise the local server at localhost:8080
+   For more visit [here](https://github.com/expeditejs/expedite-core-docs/blob/master/docs/yourdocs.md)
 
 
 
